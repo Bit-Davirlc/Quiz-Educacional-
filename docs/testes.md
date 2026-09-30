@@ -1,9 +1,9 @@
-🧪 Testes — Quiz Integrador
-📌 Objetivo
+ Testes — Quiz Integrador
+ Objetivo
 
 A equipe de Testes é responsável por verificar o funcionamento do sistema Quiz Integrador, identificando erros e garantindo que as funcionalidades desenvolvidas atendam aos requisitos definidos pelo projeto.
 
-🎯 Responsabilidades
+ Responsabilidades
 
 Criar e organizar casos de teste.
 
@@ -40,7 +40,7 @@ Testes de regressão
 
 Verificar se uma alteração ou correção não causou problemas em funcionalidades que já estavam funcionando.
 
-📋 Casos de teste
+ Casos de teste
 
 Os casos de teste serão registrados conforme as funcionalidades forem desenvolvidas.
 
@@ -50,7 +50,7 @@ CT-002	Login	Usuário informa senha incorreta	Sistema informa erro	Pendente
 CT-003	Quiz	Usuário seleciona uma resposta	Sistema registra a resposta	Pendente
 CT-004	Quiz	Usuário finaliza o quiz	Sistema apresenta o resultado	Pendente
 CT-005	Ranking	Usuário termina uma partida	Pontuação é registrada no ranking	Pendente
-🐛 Registro de bugs
+ Registro de bugs
 
 Quando um erro for encontrado, será criada uma Issue no GitHub contendo:
 
@@ -68,7 +68,7 @@ Evidências, quando necessário;
 
 Status do problema.
 
-🔄 Fluxo de testes
+ Fluxo de testes
 Funcionalidade desenvolvida
           ↓
 Criação do caso de teste
@@ -86,8 +86,8 @@ Execução do teste
           Novo teste
                ↓
              Passou
-
-📊 Status dos testes
+             
+ Status dos testes
 
 🟡 Pendente
 
